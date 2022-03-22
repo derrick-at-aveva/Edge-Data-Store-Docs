@@ -6,7 +6,7 @@ uid: SystemRequirements
 
 Edge Data Store is supported on a variety of platforms and processors. Install kits are available for the  platforms listed in the following table.
 
-| Operating System | Platform    | Installation Kit | Processor(s) |
+| Operating System | Platform    | Installation Kit | Processors |
 |-------------------|----------------------------------|-------------|
 | Windows 10 Enterprise <br>Windows 10 IoT Enterprise  | x64 | EdgeDataStore.msi     | Intel/AMD 64-bit processors |
 | Debian 9, 10<br>Ubuntu 18.04, 20.04 | x64 | EdgeDataStore_linux-x64.deb     | Intel/AMD 64-bit processors |
