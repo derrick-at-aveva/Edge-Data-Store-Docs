@@ -23,7 +23,7 @@ Use HTTPS to write data to OSIsoft Cloud Services or OSIsoft PI Web API; writing
 
 The Modbus TCP EDS adapter and the OPC UA EDS adapter access remote data sources through binary protocols.
 
-The Modbus TCP EDS adapter does not currently support transport layer security between the adapter and the data source, which means that the Modbus traffic will be unprotected. If needed, use other measures to secure this traffic such as air-gapped control network, VPN connection, SSH tunnel, etc.
+The Modbus TCP EDS adapter does not currently support transport layer security between the adapter and the data source, which means that the Modbus traffic will be unprotected. If needed, use other measures to secure this traffic such as air-gapped control network, VPN connection, or SSH tunnel.
 
 ## Secure storage
 
